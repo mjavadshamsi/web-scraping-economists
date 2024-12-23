@@ -7,7 +7,7 @@ This repository contains materials from the workshop *Web Scraping for Economist
 
 I am an economist. In all my papers, I have used web scraping to assemble unique datasets, enabling me to explore questions that would otherwise remain inaccessible. I believe web scraping provides a powerful tool for assembling datasets and uncovering new insights, particularly in areas where traditional data sources are limited.
 
-I have also provided workshops with practical takeaways from web scraping for economists and decided to share the content of those workshops here.
+I have provided workshops with practical takeaways from web scraping for economists and decided to share the content of those workshops here.
 
 
 ## My Research Projects Utilizing Web Scraping
